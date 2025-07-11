@@ -9,9 +9,14 @@ This is a simple Flask web application automatically deployed to Azure App Servi
 - Azure App Service (Free Tier)
 
 ## ?? Live App
-https://flaskindiaapp.azurewebsites.net
+[https://flaskindiaapp.azurewebsites.net](https://flaskindiaapp.azurewebsites.net)
 
-## ??? Setup
+## ??? Local Setup
+
+Clone the repo and run the app locally:
+
 ```bash
+git clone https://github.com/poorneshks/Newflask-azure-app.git
+cd Newflask-azure-app
 pip install -r requirements.txt
 python app.py
